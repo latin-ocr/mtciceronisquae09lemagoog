@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./mtciceronisquae09lemagoog/mtciceronisquae09lemagoog_0431.png"; bbox 0 0 3044 4788; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 374 1522 2374 1945">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 374 1522 2374 1945">
+     <span class='ocr_line' id='line_1_1' title="bbox 374 1522 2374 1754; baseline 0.003 -55"><span class='ocrx_word' id='word_1_1' title='bbox 374 1522 549 1700; x_wconf 75' lang='grc' dir='ltr'><strong>Μζ</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 616 1575 1251 1705; x_wconf 84' lang='lat' dir='ltr'>TULLII</span> <span class='ocrx_word' id='word_1_3' title='bbox 1344 1576 2374 1754; x_wconf 71' lang='lat' dir='ltr'>CICERONIS</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 907 1853 1848 1945; baseline 0.003 -5"><span class='ocrx_word' id='word_1_4' title='bbox 907 1855 1048 1943; x_wconf 95' lang='lat' dir='ltr'><strong>IN</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 1123 1853 1221 1944; x_wconf 92' lang='lat' dir='ltr'><strong>C.</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 1298 1855 1848 1945; x_wconf 88' lang='lat' dir='ltr'>VERREM</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 474 2083 2266 2215">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 474 2083 2266 2215">
+     <span class='ocr_line' id='line_1_3' title="bbox 474 2083 2266 2215; baseline 0.001 -9"><span class='ocrx_word' id='word_1_7' title='bbox 474 2083 1327 2215; x_wconf 89' lang='lat' dir='ltr'><strong>ACTIONIS</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 1394 2086 2266 2213; x_wconf 89' lang='lat' dir='ltr'><strong>SECUNDAE</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 335 2297 2492 2690">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 335 2297 2492 2690">
+     <span class='ocr_line' id='line_1_4' title="bbox 820 2297 1921 2439; baseline -0.001 -3"><span class='ocrx_word' id='word_1_9' title='bbox 820 2297 1184 2437; x_wconf 79' lang='lat' dir='ltr'>LIBER</span> <span class='ocrx_word' id='word_1_10' title='bbox 1257 2355 1921 2439; x_wconf 84' lang='lat' dir='ltr'>SECUNDUS</span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 335 2578 2492 2690; baseline -0 -23"><span class='ocrx_word' id='word_1_11' title='bbox 335 2581 512 2667; x_wconf 87' lang='lat' dir='ltr'><strong>DE</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 570 2578 1640 2672; x_wconf 79' lang='lat' dir='ltr'>JURISDICTIONE</span> <span class='ocrx_word' id='word_1_13' title='bbox 1706 2578 2412 2669; x_wconf 85' lang='lat' dir='ltr'><strong>SICILIENSI</strong></span> <span class='ocrx_word' id='word_1_14' title='bbox 2485 2685 2492 2690; x_wconf 40' lang='lat'>‚</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

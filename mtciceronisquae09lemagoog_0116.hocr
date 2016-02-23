@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./mtciceronisquae09lemagoog/mtciceronisquae09lemagoog_0116.png"; bbox 0 0 3044 4788; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 670 438 2141 535">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 670 438 2141 535">
+     <span class='ocr_line' id='line_1_1' title="bbox 670 438 2141 535; baseline -0.003 -27"><span class='ocrx_word' id='word_1_1' title='bbox 670 443 758 535; x_wconf 77' lang='lat'>74</span> <span class='ocrx_word' id='word_1_2' title='bbox 1301 441 1397 506; x_wconf 89' lang='lat' dir='ltr'>M.</span> <span class='ocrx_word' id='word_1_3' title='bbox 1450 441 1529 505; x_wconf 88' lang='lat' dir='ltr'>T.</span> <span class='ocrx_word' id='word_1_4' title='bbox 1586 438 2141 506; x_wconf 84' lang='lat' dir='ltr'>CICERONIS</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 606 552 2793 766">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 606 552 2793 766">
+     <span class='ocr_line' id='line_1_2' title="bbox 606 552 2791 652; baseline 0 -24"><span class='ocrx_word' id='word_1_5' title='bbox 606 598 609 603; x_wconf 91' lang='lat'><em>·</em></span> <span class='ocrx_word' id='word_1_6' title='bbox 661 552 923 629; x_wconf 84' lang='lat' dir='ltr'>deinde</span> <span class='ocrx_word' id='word_1_7' title='bbox 949 557 1321 652; x_wconf 82' lang='lat' dir='ltr'>aliquanto</span> <span class='ocrx_word' id='word_1_8' title='bbox 1354 557 1655 645; x_wconf 86' lang='lat' dir='ltr'>lentius;</span> <span class='ocrx_word' id='word_1_9' title='bbox 1689 556 1869 627; x_wconf 81' lang='lat' dir='ltr'>nihil</span> <span class='ocrx_word' id='word_1_10' title='bbox 1895 580 2131 652; x_wconf 83' lang='lat' dir='ltr'>agere,</span> <span class='ocrx_word' id='word_1_11' title='bbox 2166 569 2384 652; x_wconf 86' lang='lat' dir='ltr'><strong>atque</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 2408 555 2791 644; x_wconf 85' lang='lat' dir='ltr'><strong>deludere;</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 657 665 2793 766; baseline 0 -28"><span class='ocrx_word' id='word_1_13' title='bbox 657 683 1051 766; x_wconf 82' lang='lat' dir='ltr'>postrem0‚</span> <span class='ocrx_word' id='word_1_14' title='bbox 1082 665 1158 736; x_wconf 89' lang='lat' dir='ltr'>id</span> <span class='ocrx_word' id='word_1_15' title='bbox 1190 665 1392 763; x_wconf 87' lang='lat' dir='ltr'>quod</span> <span class='ocrx_word' id='word_1_16' title='bbox 1425 665 1631 738; x_wconf 84' lang='lat' dir='ltr'>facile</span> <span class='ocrx_word' id='word_1_17' title='bbox 1659 667 2106 738; x_wconf 84' lang='lat' dir='ltr'>intellectum</span> <span class='ocrx_word' id='word_1_18' title='bbox 2140 680 2269 754; x_wconf 85' lang='lat' dir='ltr'><strong>est,</strong></span> <span class='ocrx_word' id='word_1_19' title='bbox 2301 665 2596 737; x_wconf 85' lang='lat' dir='ltr'>insidias</span> <span class='ocrx_word' id='word_1_20' title='bbox 2627 672 2793 738; x_wconf 81' lang='lat' dir='ltr'>vitae</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 3008 5 3011 596">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 3008 5 3011 596">
+     <span class='ocr_line' id='line_1_4' title="bbox 3008 5 3011 596; baseline 0 0"><span class='ocrx_word' id='word_1_21' title='bbox 3008 5 3011 596; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

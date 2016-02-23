@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./mtciceronisquae09lemagoog/mtciceronisquae09lemagoog_0043.png"; bbox 0 0 3044 4788; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 375 1735 2327 2112">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 375 1735 2327 2112">
+     <span class='ocr_line' id='line_1_1' title="bbox 375 1735 2327 1864; baseline -0.001 -7"><span class='ocrx_word' id='word_1_1' title='bbox 375 1738 552 1858; x_wconf 90' lang='lat' dir='ltr'>M.</span> <span class='ocrx_word' id='word_1_2' title='bbox 602 1737 1251 1859; x_wconf 92' lang='lat' dir='ltr'>TULLII</span> <span class='ocrx_word' id='word_1_3' title='bbox 1341 1735 2327 1864; x_wconf 89' lang='lat' dir='ltr'>CICERONIS</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 800 1997 1871 2112; baseline 0 -25"><span class='ocrx_word' id='word_1_4' title='bbox 800 1998 1064 2087; x_wconf 85' lang='lat' dir='ltr'>PRO</span> <span class='ocrx_word' id='word_1_5' title='bbox 1129 2000 1222 2086; x_wconf 87' lang='lat' dir='ltr'>P.</span> <span class='ocrx_word' id='word_1_6' title='bbox 1273 1997 1871 2112; x_wconf 83' lang='lat' dir='ltr'>QUINTIO</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 991 2228 1702 2360">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 991 2228 1702 2360">
+     <span class='ocr_line' id='line_1_3' title="bbox 991 2228 1702 2360; baseline 0.004 -3"><span class='ocrx_word' id='word_1_7' title='bbox 991 2228 1702 2360; x_wconf 87' lang='lat' dir='ltr'>ORATIO</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
